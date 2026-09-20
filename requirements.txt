@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision>=0.15
+transformers>=4.40
+peft>=0.10
+bitsandbytes>=0.43
+scikit-learn>=1.3
+numpy>=1.24
+Pillow>=10.0

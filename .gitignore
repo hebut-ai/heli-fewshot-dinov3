@@ -1,0 +1,10 @@
+# Generated large files are not committed
+data/crop/
+data/features/
+models/
+ckpts/
+results/
+__pycache__/
+*.npz
+*.pt
+*.pth
