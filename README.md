@@ -114,12 +114,12 @@ please cite both the paper and the dataset if you use this code.
 This repository is anonymized for double-blind review:
 
 ```bibtex
-@misc{your2026dinoheli,
+@misc{anon2026dinoheli,
   title        = {Few-shot helicopter image classification method based on the {DINO} vision foundation model},
   author       = {{Anonymous Authors}},
   year         = {2026},
   howpublished = {Anonymous code repository},
   note         = {Code repository for a manuscript under review},
-  url          = {https://anonymous.4open.science/r/your-repo-id}
+  url          = {https://anonymous.4open.science/r/heli-fewshot-dinov3-E866}
 }
 ```
